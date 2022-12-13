@@ -14,12 +14,8 @@ Any time, we store the distance of the obstacle (within 30 meters) in the index 
 <img  width="439" alt="An example of traveling from the start point to the endpoint avoiding obstacles." src="https://user-images.githubusercontent.com/78047586/207312735-4a9d9c22-af70-4562-8005-7b6dab4f7fce.png">
 </p>
 
-*The variables you can alter before runnig the file:
-
-
-  *show_animation = TRUE or FALSE
-
-  *path_to_save_datas = "your path"
-
-  *number_of_datasets = #The number of datasets you want to create
+-The variables you can alter before runnig the file:
+  -show_animation = TRUE or FALSE
+  -path_to_save_datas = "your path"
+  -number_of_datasets = #The number of datasets you want to create
 
