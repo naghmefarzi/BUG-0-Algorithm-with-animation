@@ -15,7 +15,10 @@ Any time, we store the distance of the obstacle (within 30 meters) in the index 
 </p>
 
 -The variables you can alter before runnig the file:
-  -show_animation = TRUE or FALSE
-  -path_to_save_datas = "your path"
-  -number_of_datasets = #The number of datasets you want to create
+
+  - [ ]show_animation = TRUE or FALSE
+  
+  - [ ]path_to_save_datas = "your path"
+  
+  - [ ]number_of_datasets = #The number of datasets you want to create
 
