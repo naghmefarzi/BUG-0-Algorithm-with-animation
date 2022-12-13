@@ -11,12 +11,14 @@ In order to collect data, the robot was placed in an obstacle environment and ac
 
 Any time, we store the distance of the obstacle (within 30 meters) in the index of each desired angle, based on the robot's head orientation.
 
+
+
 The variables you can alter before runnig the file:
 
 
-show_animation = TRUE or FALSE
+*show_animation = TRUE or FALSE
 
-path_to_save_datas = "your path"
+*path_to_save_datas = "your path"
 
-number_of_datasets = #The number of datasets you want to create
+*number_of_datasets = #The number of datasets you want to create
 
