@@ -10,9 +10,9 @@ The angle 𝜃p shows the angle between the reference coordinate and the vector 
 In order to collect data, the robot was placed in an obstacle environment and according to the BUG0 algorithm, this information was collected in random possible positions of the starting and target points.
 
 Any time, we store the distance of the obstacle (within 30 meters) in the index of each desired angle, based on the robot's head orientation.
-<p>![An example of traveling from the start point to the endpoint avoiding obstacles.]
+
 ![Screen Shot 1401-09-21 at 19 55 15](https://user-images.githubusercontent.com/78047586/207312120-c0efded3-842e-4bf2-badd-5672ef3111f0.jpg)
-</p>
+
 
 The variables you can alter before runnig the file:
 
